@@ -6,7 +6,7 @@ Topic from: [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-t
 
 *CHEN Jian, 3035419286*
 
-*WU Kangzhang, 3035455242*
+*WU Kangzhang, 3035455242* -->Team learder
 
 *LEE Lip Tong, 3035418610*
 
