@@ -1,7 +1,7 @@
 # HousePricePredict
 Topic from: [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 ## Group Selection: Group I
-## Group name: We_is_Experts
+## Group name: WeIsExperts
 *CHAN Kai Kin, 3035111468*
 
 *CHEN Jian, 3035419286*
