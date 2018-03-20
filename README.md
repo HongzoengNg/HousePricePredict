@@ -1,10 +1,13 @@
 # HousePricePredict
-Topic from: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Topic from: [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 ## Group Selection: Group I
 ## Group name: We_is_Experts
 *CHAN Kai Kin, 3035111468*
+
 *CHEN Jian, 3035419286*
+
 *WU Kangzhang, 3035455242*
+
 *LEE Lip Tong, 3035418610*
 
 ## Topic: House Price Prediction Based On Random Forest
@@ -25,7 +28,7 @@ Our group plans to introduce Random Forest as a regression technique. In our dem
 - Advantages & Disadvantages
 
 ## Demo:
-Our live demo would be running a regression using random forest. The input data would be the sales price and numerous housing properties, which are used to train and test the regression model. The final regression model would be take any data to predict the corresponding housing price.
+Our live demo would be running a regression using random forest. The input data would take the sales price and numerous housing properties, which are used to train and test the regression model. The final regression model would be take any data to predict the corresponding housing price.
 
 [Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
